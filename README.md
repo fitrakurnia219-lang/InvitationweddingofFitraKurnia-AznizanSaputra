@@ -64,7 +64,7 @@
 
         <audio id="myAudio" loop>
             <source src="https://drive.google.com/uc?export=download&id=1f-eRVbvfE2-nr3wMQ_nK2sMJVP-ROkpD" type="audio/mpeg">
-            Browser Anda tidak mendukung elemen audio.
+            
         </audio>
 
         <iframe src="https://www.canva.com/design/DAHIP_CR-rU/skuuN5_rAlZol2BMTEzd3Q/view?embed" 
